@@ -21,7 +21,7 @@ A simple Python chatbot that responds to user input using hardcoded rules and ke
 3. Run:
 
     ```
-    python [app.py](http://_vscodecontentref_/0)
+    python app.py
     ```
 
 4. Type your messages and chat with the bot!
